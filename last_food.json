@@ -1,0 +1,36 @@
+[
+  {
+   "id":1,
+   "foodName":"Food Stuff One",
+   "servingPerContainerValue":"3",
+   "servingSizeValues":"1/2 Cup (23g)",
+   "numCalories":"36",
+   "fatAmt":"9g",
+   "totalFatPercent":"12%",
+   "satFatAmt":"4g",
+   "satFatDailyValue":"5%",
+   "transFatAmt":"4g",
+   "cholesterolAmt":"5%",
+   "cholDailyValue":"4g",
+   "sodiumAmt":"5%",
+   "sodiumDailyValue":"4g",
+   "carboAmt":"5%",
+   "carboDailyValue":"4g",
+   "dietFiberAmt":"5%",
+   "dietFiberDailyValue":"4g",
+   "totalSugarAmt":"5%",
+   "addedSugarsAmt":"4g",
+   "addedSugarDailyValue":"5%",
+   "proteinAmt":"4g",
+   "vitaminDAmt":"5%",
+   "vitaminDdailyValue":"4g",
+   "calciumAmt":"5%",
+   "calciumDailyValue":"4g",
+   "ironAmt":"5%",
+   "ironDailyValue":"4g",
+   "potassiumAmt":"5%",
+   "potassiumDailyValue":"4g",
+   "thumbnail":null
+   }
+
+]
