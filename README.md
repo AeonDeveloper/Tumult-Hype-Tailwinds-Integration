@@ -10,10 +10,10 @@ you are comfortable with, and then make sure its in the same directory as you in
 
 I am using a version of tailwinds that is referenced externally from the hype file to save space.  Check the Head HTML of the hype
 for a reference on how to do this:
-	<link href="tailwind.min.css" rel="stylesheet">
+	link href="tailwind.min.css" rel="stylesheet"
   
 Referencing font awesome is similar to this:
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
+link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous"
 
 
